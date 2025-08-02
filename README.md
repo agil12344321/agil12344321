@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agil12344321" alt="agil12344321" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/agil12344321](github.com/agil12344321)
+- 👨‍💻 All of my projects are available at [github.com/agil12344321](https://github.com/agil12344321/agil-george)
 
 - 📫 How to reach me **agilgeorge11@gmail.com**
 
